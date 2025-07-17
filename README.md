@@ -35,5 +35,5 @@ PWD=YOUR_PASSWORD
 
 **How to Run:**
 
-1. Create the database by running schema.sql in SQL SERVER.
+1. Run `schema.sql` in your SQL Server Management Studio (SSMS) or via a script to create the necessary tables.
 2. ```python main.py```
