@@ -21,7 +21,7 @@ This project demonstrates a simple ETL pipeline using Python, SQL Server, and CS
 
 ```pip install pandas pyodbc python-dotenv```
 
-**Configuration**
+**Configuration:**
 
 Create a .env file in the root directory with the following:
 
@@ -33,7 +33,7 @@ UID=YOUR_USER
 PWD=YOUR_PASSWORD
 ```
 
-**How to Run**
+**How to Run:**
 
 1. Create the database by running schema.sql in SQL SERVER.
 2. ```python main.py```
